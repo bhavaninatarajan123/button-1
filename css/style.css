@@ -1,0 +1,91 @@
+*{
+     margin:50px;
+     padding:0;
+     box-sizing:border-box;
+	 
+}
+#button{
+         background-color:yellow;
+		 padding:10px 30px;
+		 border-radius:20px;
+		} 
+   
+#but{
+         background-color:purple;
+		 padding:10px 30px;
+		 border-radius:20px;
+	}
+		 
+ #b{
+         background-color:pink;
+		 color:black;
+		 border: soild blue;
+		 padding:10px 30px;
+		 border-radius:20px 2px 20px 2px;
+	}
+ #ab{
+	 border:5px solid red;
+	 background-color:pink;
+     border-radius:50px;
+	 padding:10px 30px;
+	 
+	 }
+	 
+	 
+ #any{
+	 
+	 border:5px solid purple;
+	 background-color:pink;
+     border-radius:20px 2px 20px 2px;
+	 padding:10px 30px;
+	 }
+ #bu{
+	 border:5px solid yellow;
+	 background-color:pink;
+     border-radius:50px;
+	 padding:10px 30px;
+	 }
+ #box1{
+         background-color:red;
+		 color:pink;
+		 border:solid brown;
+		 padding:10px 30px;
+		 border-radius:2px 20px 2px 20px;
+	}
+	
+#box2{
+         background-color:blue;
+		 color:black;
+		 border:solid pink ;
+		 padding:10px 30px;
+		 border-radius:20px;
+	}
+	
+	#box3{
+         background-color:blue;
+		 color:pink;
+		 border:solid yellow;
+		 padding:10px 30px;
+		 border-radius:20px;
+	}
+	#box4{
+         background-color:purple;
+		 color:blue;
+		 border:5px solid pink;
+		 padding:10px 30px;
+		 border-radius:20px;
+	}
+	#box5{
+         background-color:blue;
+		 color:pink;
+		 border:solid red;
+		 padding:10px 30px;
+		 border-radius:20px;
+	}
+	#box6{
+         background-color:red;
+		 color:black;
+		 border:solid green;
+		 padding:10px 30px;
+		 border-radius:20px;
+	}
